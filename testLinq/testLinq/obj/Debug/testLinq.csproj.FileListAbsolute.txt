@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\testLinq\testLinq\bin\Debug\testLinq.exe.config
+c:\users\student\documents\visual studio 2015\Projects\testLinq\testLinq\bin\Debug\testLinq.exe
+c:\users\student\documents\visual studio 2015\Projects\testLinq\testLinq\bin\Debug\testLinq.pdb
+c:\users\student\documents\visual studio 2015\Projects\testLinq\testLinq\obj\Debug\testLinq.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\testLinq\testLinq\obj\Debug\testLinq.exe
+c:\users\student\documents\visual studio 2015\Projects\testLinq\testLinq\obj\Debug\testLinq.pdb
